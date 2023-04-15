@@ -1,0 +1,12 @@
+{
+  "name": "MC Date",
+  "namespace": "mc-date",
+  "description": "Component that logs date to client's console",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "execute_unsafe_scripts": {
+      "description": "Permission is used to log the date to the console",
+      "required": true
+    }
+  }
+}
